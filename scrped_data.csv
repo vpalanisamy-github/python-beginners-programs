@@ -1,0 +1,60 @@
+U,s,i,n,g, ,T,h,e, ,J,a,v,a,S,c,r,i,p,t, ,T,e,r,n,a,r,y, ,O,p,e,r,a,t,o,r, ,E,f,f,e,c,t,i,v,e,l,y
+2,0,2,0,-,1,1,-,0,9, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,u,s,i,n,g,-,t,h,e,-,j,a,v,a,s,c,r,i,p,t,-,t,e,r,n,a,r,y,-,o,p,e,r,a,t,o,r
+S,e,v,e,n, ,T,i,p,s, ,F,o,r, ,D,e,a,l,i,n,g, ,W,i,t,h, ,I,m,p,o,s,t,e,r, ,S,y,n,d,r,o,m,e
+2,0,2,0,-,1,0,-,2,0, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,d,e,a,l,i,n,g,-,w,i,t,h,-,c,o,d,i,n,g,-,b,o,o,t,c,a,m,p,-,i,m,p,o,s,t,e,r,-,s,y,n,d,r,o,m,e
+A,l,u,m,n,i, ,S,p,o,t,l,i,g,h,t,:, ,G,e,n,n,a, ,M,e,r,g,o,l,a
+2,0,2,0,-,1,0,-,1,3, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,a,l,u,m,n,i,-,s,p,o,t,l,i,g,h,t,-,g,e,n,n,a,-,m,e,r,g,o,l,a
+H,o,w, ,T,o, ,G,e,t, ,I,n,t,o, ,A, ,T,o,p, ,C,o,d,i,n,g, ,B,o,o,t,c,a,m,p
+2,0,2,0,-,0,9,-,2,2, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,h,o,w,-,t,o,-,g,e,t,-,i,n,t,o,-,t,o,p,-,c,o,d,i,n,g,-,b,o,o,t,c,a,m,p,-,r,i,t,h,m,-,s,c,h,o,o,l
+T,a,k,i,n,g, ,B,r,e,a,k,s,:, ,W,h,y, ,B,e,i,n,g, ,B,u,s,y, ,D,o,e,s,n,',t, ,E,q,u,a,l, ,P,r,o,d,u,c,t,i,v,i,t,y
+2,0,2,0,-,0,8,-,1,8, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,t,a,k,i,n,g,-,b,r,e,a,k,s,-,f,o,r,-,p,r,o,d,u,c,t,i,v,i,t,y
+S,t,u,d,e,n,t, ,I,n,t,e,r,v,i,e,w,:, ,R,1,6, ,O,n, ,C,o,m,p,a,n,y, ,P,r,o,j,e,c,t,s
+2,0,2,0,-,0,8,-,1,1, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,s,t,u,d,e,n,t,-,i,n,t,e,r,v,i,e,w,-,r,1,6,-,o,n,-,r,e,m,o,t,e,-,c,o,m,p,a,n,y,-,p,r,o,j,e,c,t,s
+5, ,T,o,p,i,c,s, ,T,o, ,M,a,s,t,e,r, ,B,e,f,o,r,e, ,L,e,a,r,n,i,n,g, ,R,e,a,c,t, ,H,o,o,k,s
+2,0,2,0,-,0,7,-,2,8, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,5,-,t,o,p,i,c,s,-,t,o,-,m,a,s,t,e,r,-,b,e,f,o,r,e,-,l,e,a,r,n,i,n,g,-,r,e,a,c,t,-,h,o,o,k,s
+W,h,a,t, ,Y,o,u, ,C,a,n, ,L,e,a,r,n, ,F,r,o,m, ,L,e,a,r,n,i,n,g, ,A, ,N,e,w, ,L,a,n,g,u,a,g,e
+2,0,2,0,-,0,7,-,2,1, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,w,h,a,t,-,y,o,u,-,c,a,n,-,l,e,a,r,n,-,f,r,o,m,-,l,e,a,r,n,i,n,g,-,a,-,n,e,w,-,l,a,n,g,u,a,g,e
+S,o,f,t,w,a,r,e, ,E,n,g,i,n,e,e,r,i,n,g, ,C,a,r,e,e,r,s, ,P,o,s,t, ,C,o,v,i,d,-,1,9
+2,0,2,0,-,0,7,-,0,8, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,s,o,f,t,w,a,r,e,-,e,n,g,i,n,e,e,r,i,n,g,-,c,a,r,e,e,r,s,-,p,o,s,t,-,c,o,v,i,d,-,1,9
+W,h,a,t, ,C,o,d,i,n,g, ,L,a,n,g,u,a,g,e, ,Y,o,u, ,S,h,o,u,l,d, ,L,e,a,r,n, ,T,o, ,G,e,t, ,H,i,r,e,d, ,I,n, ,2,0,2,0
+2,0,2,0,-,0,7,-,0,2, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,w,h,a,t,-,c,o,d,i,n,g,-,l,a,n,g,u,a,g,e,-,y,o,u,-,s,h,o,u,l,d,-,l,e,a,r,n,-,t,o,-,g,e,t,-,h,i,r,e,d,-,i,n,-,2,0,2,0
+A,l,u,m,n,i, ,S,p,o,t,l,i,g,h,t,:, ,G,e,o,r,g,e, ,G,r,u,n,e,r
+2,0,2,0,-,0,6,-,2,4, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,a,l,u,m,n,i,-,s,p,o,t,l,i,g,h,t,-,g,e,o,r,g,e,-,g,r,u,n,e,r
+A, ,T,e,c,h, ,W,o,r,k,e,r, ,R,e,a,d,i,n,g, ,L,i,s,t, ,f,o,r, ,2,0,2,0
+2,0,2,0,-,0,6,-,0,8, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,t,e,c,h,-,w,o,r,k,e,r,-,r,e,a,d,i,n,g,-,l,i,s,t,-,f,o,r,-,2,0,2,0
+J,a,v,a,S,c,r,i,p,t, ,i,n, ,2,0,2,0
+2,0,2,0,-,0,5,-,2,7, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,j,a,v,a,s,c,r,i,p,t,-,i,n,-,2,0,2,0
+R,i,t,h,m,',s, ,A,l,u,m,n,i, ,M,e,n,t,o,r, ,P,r,o,g,r,a,m
+2,0,2,0,-,0,5,-,1,2, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,b,o,o,t,c,a,m,p,-,a,l,u,m,n,i,-,m,e,n,t,o,r,s,h,i,p,-,p,r,o,g,r,a,m
+R,i,t,h,m, ,S,c,h,o,o,l, ,R,e,m,o,t,e, ,U,p,d,a,t,e,s, ,-, ,S,c,h,o,l,a,r,s,h,i,p,s, ,&, ,S,m,a,l,l,e,r, ,C,l,a,s,s, ,S,i,z,e,s
+2,0,2,0,-,0,5,-,0,6, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,r,e,m,o,t,e,-,2,0,2,0,-,u,p,d,a,t,e,s,-,s,c,h,o,l,a,r,s,h,i,p,s
+S,t,u,d,e,n,t, ,I,n,t,e,r,v,i,e,w,:, ,R,1,4, ,O,n, ,R,e,m,o,t,e, ,C,o,m,p,a,n,y, ,P,r,o,j,e,c,t,s
+2,0,2,0,-,0,4,-,2,9, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,s,t,u,d,e,n,t,-,i,n,t,e,r,v,i,e,w,-,r,e,m,o,t,e,-,c,o,m,p,a,n,y,-,p,r,o,j,e,c,t,s
+7, ,E,a,s,y, ,W,a,y,s, ,T,o, ,F,o,c,u,s, ,O,n, ,T,h,e, ,J,o,b, ,S,e,a,r,c,h, ,P,r,o,c,e,s,s
+2,0,2,0,-,0,4,-,2,1, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,f,o,c,u,s,-,j,o,b,-,p,r,o,c,e,s,s,-,d,u,r,i,n,g,-,c,o,v,i,d,-,1,9
+S,a,n,F,r,a,n,c,i,s,c,o,B,o,o,t,c,a,m,p,s,.,c,o,m, ,-, ,C,a,m,p,u,s, ,R,e,v,i,e,w, ,–, ,R,i,t,h,m, ,S,c,h,o,o,l, ,S,a,n, ,F,r,a,n,c,i,s,c,o
+2,0,2,0,-,0,4,-,0,8, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,s,a,n,-,f,r,a,n,c,i,s,c,o,-,c,o,d,i,n,g,-,b,o,o,t,c,a,m,p,s,-,r,e,v,i,e,w
+R,i,t,h,m, ,S,c,h,o,o,l, ,R,e,m,o,t,e, ,L,e,a,r,n,i,n,g, ,F,A,Q,s
+2,0,2,0,-,0,4,-,0,1, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,r,e,m,o,t,e,-,l,e,a,r,n,i,n,g,-,f,a,q
+L,o,o,k,i,n,g, ,B,a,c,k, ,O,n, ,O,u,r, ,F,i,r,s,t, ,W,o,m,e,n, ,I,n, ,T,e,c,h, ,E,v,e,n,t, ,S,e,r,i,e,s
+2,0,2,0,-,0,3,-,3,1, ,0,0,:,0,0,:,0,0, ,U,T,C
+/,b,l,o,g,/,l,o,o,k,i,n,g,-,b,a,c,k,-,w,o,m,e,n,-,i,n,-,t,e,c,h

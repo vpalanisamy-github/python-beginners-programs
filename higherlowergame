@@ -1,0 +1,72 @@
+from art import logo, vs
+from game_data import data
+from random import randint
+
+
+
+
+print(logo)
+
+first_person = 0
+second_person = 0
+SCORE = 0
+play = 1
+
+
+
+
+while play:
+
+  # Chooosing the random persons for comparison
+  while first_person == second_person:
+    first_person = randint(0, len(data))
+    second_person = randint(0, len(data))
+
+    
+
+   # printing players 
+  def players(first_person, second_person):
+    print(f"Compare A: {data[first_person]['name']} , {data[first_person]['description']} , {data[first_person]['country']} ")
+    print(vs)
+    print(f"Against B: {data[second_person]['name']} , {data[second_person]['description']} , {data[second_person]['country']} ")
+  
+  players(first_person, second_person)
+
+  
+  
+  #Comparing the players
+  def playercomparison(first_person, second_person):
+    if data[first_person]['follower_count'] >= data[second_person]['follower_count']:
+      return first_person
+    elif data[first_person]['follower_count'] <= data[second_person]['follower_count']:
+      return second_person
+      
+  highscore = playercomparison(first_person, second_person)
+
+
+  
+  user_input = input("Who has more followers? Type 'A' or 'B': ")
+  if user_input == 'A':
+    user_input = first_person
+  elif user_input == 'B':
+    user_input = second_person
+
+    while playercomparison == user_input:
+      SCORE += 1
+      first_person = playercomparison
+      second_person = randint(0, len(data))
+    
+  
+
+  
+  
+def iscontinue():
+
+# else:
+#   print(f"You lost and your final score is: {SCORE}")
+  
+
+
+# for item in range(0, len(data)):
+#   print(item, data[item])
+# print(vs)
