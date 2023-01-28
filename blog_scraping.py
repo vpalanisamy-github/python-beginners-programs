@@ -21,7 +21,7 @@ with open("scraped_blog_data.csv", "w") as file:
 		url= article.find("a").attrs["href"]
 		csv_writer.writerow([title, url, time])
 
-
+# Testing Purpose
 
 
 #single element
